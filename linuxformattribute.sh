@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Writen by Luca Smith, age 11. https://github.com/badwolfunit
+#This script is on my github at https://github.com/badwolfunit/GoodbyeLXF
+
 # DRAMATIC MUSIC, FADE IN
 clear
 echo ""
